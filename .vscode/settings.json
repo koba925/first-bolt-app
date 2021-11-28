@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "off",
+    "standard.enable": true,
+    "standard.autoFixOnSave": true,
+    "standard.engine": "semistandard"
+}
